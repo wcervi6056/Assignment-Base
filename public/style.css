@@ -3,6 +3,7 @@ body{
     min-width: none;
     text-align: center;
 } 
+
 .suggestions li{
     font-size: large;
     margin: 10px;
@@ -13,16 +14,19 @@ body{
     border-radius: 50px;
     margin: 20px;
 }
+
 .container{
     max-width: 1000px;
     padding-top: 50px;
 }
+
 h1{
     font-weight: bold;
     color: white;
     text-align: center;
     font-family: "Trirong", serif;
 }
+
 h3{
     font-weight: bold;
     color: white;
